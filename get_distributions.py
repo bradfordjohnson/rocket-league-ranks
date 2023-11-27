@@ -29,12 +29,13 @@ links = get_links(modes, base_link)
 
 def clean_players_data(players_data):
     cleaned_data = re.sub(r" players.*$", "", players_data)
-    cleaned_data = re.sub(r"[\s,]+", "", cleaned_data)
+    cleaned_data = re.sub(r",", "", cleaned_data)
     return cleaned_data
 
 
 def clean_divisions_data(divisions_data):
     cleaned_data = re.sub(r"\u2014", "-", divisions_data)
+    cleaned_data = re.sub(r",", "", cleaned_data)
     return cleaned_data
 
 

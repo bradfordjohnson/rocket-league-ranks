@@ -4,63 +4,63 @@
     "values": [
       {
         "rank": "Supersonic Legend",
-        "players": "2764",
-        "division_1": "1,341 - 1,623",
+        "players": "2767",
+        "division_1": "1341 - 1623",
         "division_2": "-",
         "division_3": "-",
         "division_4": "-"
       },
       {
         "rank": "Grand Champion III",
-        "players": "2248",
-        "division_1": "1,284 - 1,298",
-        "division_2": "1,300 - 1,312",
-        "division_3": "1,318 - 1,335",
-        "division_4": "1,337 - 1,347"
+        "players": "2250",
+        "division_1": "1284 - 1298",
+        "division_2": "1300 - 1312",
+        "division_3": "1318 - 1335",
+        "division_4": "1337 - 1347"
       },
       {
         "rank": "Grand Champion II",
-        "players": "4004",
-        "division_1": "1,228 - 1,238",
-        "division_2": "1,240 - 1,255",
-        "division_3": "1,258 - 1,274",
-        "division_4": "1,277 - 1,283"
+        "players": "4007",
+        "division_1": "1228 - 1238",
+        "division_2": "1240 - 1255",
+        "division_3": "1258 - 1274",
+        "division_4": "1277 - 1283"
       },
       {
         "rank": "Grand Champion I",
-        "players": "8320",
-        "division_1": "1,167 - 1,178",
-        "division_2": "1,180 - 1,194",
-        "division_3": "1,200 - 1,214",
-        "division_4": "1,217 - 1,227"
+        "players": "8333",
+        "division_1": "1167 - 1178",
+        "division_2": "1180 - 1194",
+        "division_3": "1200 - 1214",
+        "division_4": "1217 - 1227"
       },
       {
         "rank": "Champion III",
-        "players": "15084",
-        "division_1": "1,106 - 1,118",
-        "division_2": "1,120 - 1,137",
-        "division_3": "1,138 - 1,155",
-        "division_4": "1,157 - 1,164"
+        "players": "15088",
+        "division_1": "1106 - 1118",
+        "division_2": "1120 - 1137",
+        "division_3": "1138 - 1155",
+        "division_4": "1157 - 1164"
       },
       {
         "rank": "Champion II",
-        "players": "29335",
-        "division_1": "1,054 - 1,058",
-        "division_2": "1,059 - 1,077",
-        "division_3": "1,078 - 1,096",
-        "division_4": "1,097 - 1,105"
+        "players": "29351",
+        "division_1": "1054 - 1058",
+        "division_2": "1059 - 1077",
+        "division_3": "1078 - 1096",
+        "division_4": "1097 - 1105"
       },
       {
         "rank": "Champion I",
-        "players": "59032",
+        "players": "59087",
         "division_1": "995 - 998",
-        "division_2": "999 - 1,017",
-        "division_3": "1,018 - 1,036",
-        "division_4": "1,037 - 1,044"
+        "division_2": "999 - 1017",
+        "division_3": "1018 - 1036",
+        "division_4": "1037 - 1044"
       },
       {
         "rank": "Diamond III",
-        "players": "105831",
+        "players": "105845",
         "division_1": "935 - 938",
         "division_2": "939 - 957",
         "division_3": "958 - 976",
@@ -68,7 +68,7 @@
       },
       {
         "rank": "Diamond II",
-        "players": "198071",
+        "players": "198239",
         "division_1": "875 - 878",
         "division_2": "879 - 897",
         "division_3": "898 - 916",
@@ -76,7 +76,7 @@
       },
       {
         "rank": "Diamond I",
-        "players": "348397",
+        "players": "348599",
         "division_1": "815 - 818",
         "division_2": "819 - 837",
         "division_3": "838 - 856",
@@ -84,7 +84,7 @@
       },
       {
         "rank": "Platinum III",
-        "players": "526765",
+        "players": "527071",
         "division_1": "755 - 758",
         "division_2": "759 - 777",
         "division_3": "778 - 796",
@@ -92,7 +92,7 @@
       },
       {
         "rank": "Platinum II",
-        "players": "723832",
+        "players": "724309",
         "division_1": "695 - 698",
         "division_2": "699 - 717",
         "division_3": "718 - 736",
@@ -100,7 +100,7 @@
       },
       {
         "rank": "Platinum I",
-        "players": "802962",
+        "players": "803554",
         "division_1": "635 - 638",
         "division_2": "639 - 657",
         "division_3": "658 - 676",
@@ -108,7 +108,7 @@
       },
       {
         "rank": "Gold III",
-        "players": "663906",
+        "players": "664444",
         "division_1": "575 - 578",
         "division_2": "579 - 597",
         "division_3": "598 - 616",
@@ -116,7 +116,7 @@
       },
       {
         "rank": "Gold II",
-        "players": "492123",
+        "players": "492601",
         "division_1": "515 - 518",
         "division_2": "519 - 537",
         "division_3": "538 - 556",
@@ -124,7 +124,7 @@
       },
       {
         "rank": "Gold I",
-        "players": "308731",
+        "players": "309078",
         "division_1": "455 - 458",
         "division_2": "459 - 477",
         "division_3": "478 - 496",
@@ -132,7 +132,7 @@
       },
       {
         "rank": "Silver III",
-        "players": "162816",
+        "players": "162989",
         "division_1": "395 - 398",
         "division_2": "399 - 417",
         "division_3": "418 - 436",
@@ -140,7 +140,7 @@
       },
       {
         "rank": "Silver II",
-        "players": "80949",
+        "players": "81054",
         "division_1": "335 - 338",
         "division_2": "339 - 357",
         "division_3": "358 - 376",
@@ -148,7 +148,7 @@
       },
       {
         "rank": "Silver I",
-        "players": "36213",
+        "players": "36261",
         "division_1": "275 - 278",
         "division_2": "279 - 297",
         "division_3": "298 - 316",
@@ -156,7 +156,7 @@
       },
       {
         "rank": "Bronze III",
-        "players": "14831",
+        "players": "14860",
         "division_1": "213 - 218",
         "division_2": "219 - 237",
         "division_3": "238 - 256",
@@ -164,7 +164,7 @@
       },
       {
         "rank": "Bronze II",
-        "players": "5066",
+        "players": "5072",
         "division_1": "143 - 158",
         "division_2": "160 - 175",
         "division_3": "178 - 196",
@@ -172,7 +172,7 @@
       },
       {
         "rank": "Bronze I",
-        "players": "2325",
+        "players": "2330",
         "division_1": "-100 - 113",
         "division_2": "116 - 127",
         "division_3": "120 - 141",
@@ -185,63 +185,63 @@
     "values": [
       {
         "rank": "Supersonic Legend",
-        "players": "2764",
-        "division_1": "1,341 - 1,623",
+        "players": "2767",
+        "division_1": "1341 - 1623",
         "division_2": "-",
         "division_3": "-",
         "division_4": "-"
       },
       {
         "rank": "Grand Champion III",
-        "players": "2248",
-        "division_1": "1,284 - 1,298",
-        "division_2": "1,300 - 1,312",
-        "division_3": "1,318 - 1,335",
-        "division_4": "1,337 - 1,347"
+        "players": "2250",
+        "division_1": "1284 - 1298",
+        "division_2": "1300 - 1312",
+        "division_3": "1318 - 1335",
+        "division_4": "1337 - 1347"
       },
       {
         "rank": "Grand Champion II",
-        "players": "4004",
-        "division_1": "1,228 - 1,238",
-        "division_2": "1,240 - 1,255",
-        "division_3": "1,258 - 1,274",
-        "division_4": "1,277 - 1,283"
+        "players": "4007",
+        "division_1": "1228 - 1238",
+        "division_2": "1240 - 1255",
+        "division_3": "1258 - 1274",
+        "division_4": "1277 - 1283"
       },
       {
         "rank": "Grand Champion I",
-        "players": "8320",
-        "division_1": "1,167 - 1,178",
-        "division_2": "1,180 - 1,194",
-        "division_3": "1,200 - 1,214",
-        "division_4": "1,217 - 1,227"
+        "players": "8333",
+        "division_1": "1167 - 1178",
+        "division_2": "1180 - 1194",
+        "division_3": "1200 - 1214",
+        "division_4": "1217 - 1227"
       },
       {
         "rank": "Champion III",
-        "players": "15084",
-        "division_1": "1,106 - 1,118",
-        "division_2": "1,120 - 1,137",
-        "division_3": "1,138 - 1,155",
-        "division_4": "1,157 - 1,164"
+        "players": "15088",
+        "division_1": "1106 - 1118",
+        "division_2": "1120 - 1137",
+        "division_3": "1138 - 1155",
+        "division_4": "1157 - 1164"
       },
       {
         "rank": "Champion II",
-        "players": "29335",
-        "division_1": "1,054 - 1,058",
-        "division_2": "1,059 - 1,077",
-        "division_3": "1,078 - 1,096",
-        "division_4": "1,097 - 1,105"
+        "players": "29351",
+        "division_1": "1054 - 1058",
+        "division_2": "1059 - 1077",
+        "division_3": "1078 - 1096",
+        "division_4": "1097 - 1105"
       },
       {
         "rank": "Champion I",
-        "players": "59032",
+        "players": "59087",
         "division_1": "995 - 998",
-        "division_2": "999 - 1,017",
-        "division_3": "1,018 - 1,036",
-        "division_4": "1,037 - 1,044"
+        "division_2": "999 - 1017",
+        "division_3": "1018 - 1036",
+        "division_4": "1037 - 1044"
       },
       {
         "rank": "Diamond III",
-        "players": "105831",
+        "players": "105845",
         "division_1": "935 - 938",
         "division_2": "939 - 957",
         "division_3": "958 - 976",
@@ -249,7 +249,7 @@
       },
       {
         "rank": "Diamond II",
-        "players": "198071",
+        "players": "198239",
         "division_1": "875 - 878",
         "division_2": "879 - 897",
         "division_3": "898 - 916",
@@ -257,7 +257,7 @@
       },
       {
         "rank": "Diamond I",
-        "players": "348397",
+        "players": "348599",
         "division_1": "815 - 818",
         "division_2": "819 - 837",
         "division_3": "838 - 856",
@@ -265,7 +265,7 @@
       },
       {
         "rank": "Platinum III",
-        "players": "526765",
+        "players": "527071",
         "division_1": "755 - 758",
         "division_2": "759 - 777",
         "division_3": "778 - 796",
@@ -273,7 +273,7 @@
       },
       {
         "rank": "Platinum II",
-        "players": "723832",
+        "players": "724309",
         "division_1": "695 - 698",
         "division_2": "699 - 717",
         "division_3": "718 - 736",
@@ -281,7 +281,7 @@
       },
       {
         "rank": "Platinum I",
-        "players": "802962",
+        "players": "803554",
         "division_1": "635 - 638",
         "division_2": "639 - 657",
         "division_3": "658 - 676",
@@ -289,7 +289,7 @@
       },
       {
         "rank": "Gold III",
-        "players": "663906",
+        "players": "664444",
         "division_1": "575 - 578",
         "division_2": "579 - 597",
         "division_3": "598 - 616",
@@ -297,7 +297,7 @@
       },
       {
         "rank": "Gold II",
-        "players": "492123",
+        "players": "492601",
         "division_1": "515 - 518",
         "division_2": "519 - 537",
         "division_3": "538 - 556",
@@ -305,7 +305,7 @@
       },
       {
         "rank": "Gold I",
-        "players": "308731",
+        "players": "309078",
         "division_1": "455 - 458",
         "division_2": "459 - 477",
         "division_3": "478 - 496",
@@ -313,7 +313,7 @@
       },
       {
         "rank": "Silver III",
-        "players": "162816",
+        "players": "162989",
         "division_1": "395 - 398",
         "division_2": "399 - 417",
         "division_3": "418 - 436",
@@ -321,7 +321,7 @@
       },
       {
         "rank": "Silver II",
-        "players": "80949",
+        "players": "81054",
         "division_1": "335 - 338",
         "division_2": "339 - 357",
         "division_3": "358 - 376",
@@ -329,7 +329,7 @@
       },
       {
         "rank": "Silver I",
-        "players": "36213",
+        "players": "36261",
         "division_1": "275 - 278",
         "division_2": "279 - 297",
         "division_3": "298 - 316",
@@ -337,7 +337,7 @@
       },
       {
         "rank": "Bronze III",
-        "players": "14831",
+        "players": "14860",
         "division_1": "213 - 218",
         "division_2": "219 - 237",
         "division_3": "238 - 256",
@@ -345,7 +345,7 @@
       },
       {
         "rank": "Bronze II",
-        "players": "5066",
+        "players": "5072",
         "division_1": "143 - 158",
         "division_2": "160 - 175",
         "division_3": "178 - 196",
@@ -353,7 +353,7 @@
       },
       {
         "rank": "Bronze I",
-        "players": "2325",
+        "players": "2330",
         "division_1": "-100 - 113",
         "division_2": "116 - 127",
         "division_3": "120 - 141",
@@ -366,63 +366,63 @@
     "values": [
       {
         "rank": "Supersonic Legend",
-        "players": "2764",
-        "division_1": "1,341 - 1,623",
+        "players": "2767",
+        "division_1": "1341 - 1623",
         "division_2": "-",
         "division_3": "-",
         "division_4": "-"
       },
       {
         "rank": "Grand Champion III",
-        "players": "2248",
-        "division_1": "1,284 - 1,298",
-        "division_2": "1,300 - 1,312",
-        "division_3": "1,318 - 1,335",
-        "division_4": "1,337 - 1,347"
+        "players": "2250",
+        "division_1": "1284 - 1298",
+        "division_2": "1300 - 1312",
+        "division_3": "1318 - 1335",
+        "division_4": "1337 - 1347"
       },
       {
         "rank": "Grand Champion II",
-        "players": "4004",
-        "division_1": "1,228 - 1,238",
-        "division_2": "1,240 - 1,255",
-        "division_3": "1,258 - 1,274",
-        "division_4": "1,277 - 1,283"
+        "players": "4007",
+        "division_1": "1228 - 1238",
+        "division_2": "1240 - 1255",
+        "division_3": "1258 - 1274",
+        "division_4": "1277 - 1283"
       },
       {
         "rank": "Grand Champion I",
-        "players": "8320",
-        "division_1": "1,167 - 1,178",
-        "division_2": "1,180 - 1,194",
-        "division_3": "1,200 - 1,214",
-        "division_4": "1,217 - 1,227"
+        "players": "8333",
+        "division_1": "1167 - 1178",
+        "division_2": "1180 - 1194",
+        "division_3": "1200 - 1214",
+        "division_4": "1217 - 1227"
       },
       {
         "rank": "Champion III",
-        "players": "15084",
-        "division_1": "1,106 - 1,118",
-        "division_2": "1,120 - 1,137",
-        "division_3": "1,138 - 1,155",
-        "division_4": "1,157 - 1,164"
+        "players": "15088",
+        "division_1": "1106 - 1118",
+        "division_2": "1120 - 1137",
+        "division_3": "1138 - 1155",
+        "division_4": "1157 - 1164"
       },
       {
         "rank": "Champion II",
-        "players": "29335",
-        "division_1": "1,054 - 1,058",
-        "division_2": "1,059 - 1,077",
-        "division_3": "1,078 - 1,096",
-        "division_4": "1,097 - 1,105"
+        "players": "29351",
+        "division_1": "1054 - 1058",
+        "division_2": "1059 - 1077",
+        "division_3": "1078 - 1096",
+        "division_4": "1097 - 1105"
       },
       {
         "rank": "Champion I",
-        "players": "59032",
+        "players": "59087",
         "division_1": "995 - 998",
-        "division_2": "999 - 1,017",
-        "division_3": "1,018 - 1,036",
-        "division_4": "1,037 - 1,044"
+        "division_2": "999 - 1017",
+        "division_3": "1018 - 1036",
+        "division_4": "1037 - 1044"
       },
       {
         "rank": "Diamond III",
-        "players": "105831",
+        "players": "105845",
         "division_1": "935 - 938",
         "division_2": "939 - 957",
         "division_3": "958 - 976",
@@ -430,7 +430,7 @@
       },
       {
         "rank": "Diamond II",
-        "players": "198071",
+        "players": "198239",
         "division_1": "875 - 878",
         "division_2": "879 - 897",
         "division_3": "898 - 916",
@@ -438,7 +438,7 @@
       },
       {
         "rank": "Diamond I",
-        "players": "348397",
+        "players": "348599",
         "division_1": "815 - 818",
         "division_2": "819 - 837",
         "division_3": "838 - 856",
@@ -446,7 +446,7 @@
       },
       {
         "rank": "Platinum III",
-        "players": "526765",
+        "players": "527071",
         "division_1": "755 - 758",
         "division_2": "759 - 777",
         "division_3": "778 - 796",
@@ -454,7 +454,7 @@
       },
       {
         "rank": "Platinum II",
-        "players": "723832",
+        "players": "724309",
         "division_1": "695 - 698",
         "division_2": "699 - 717",
         "division_3": "718 - 736",
@@ -462,7 +462,7 @@
       },
       {
         "rank": "Platinum I",
-        "players": "802962",
+        "players": "803554",
         "division_1": "635 - 638",
         "division_2": "639 - 657",
         "division_3": "658 - 676",
@@ -470,7 +470,7 @@
       },
       {
         "rank": "Gold III",
-        "players": "663906",
+        "players": "664444",
         "division_1": "575 - 578",
         "division_2": "579 - 597",
         "division_3": "598 - 616",
@@ -478,7 +478,7 @@
       },
       {
         "rank": "Gold II",
-        "players": "492123",
+        "players": "492601",
         "division_1": "515 - 518",
         "division_2": "519 - 537",
         "division_3": "538 - 556",
@@ -486,7 +486,7 @@
       },
       {
         "rank": "Gold I",
-        "players": "308731",
+        "players": "309078",
         "division_1": "455 - 458",
         "division_2": "459 - 477",
         "division_3": "478 - 496",
@@ -494,7 +494,7 @@
       },
       {
         "rank": "Silver III",
-        "players": "162816",
+        "players": "162989",
         "division_1": "395 - 398",
         "division_2": "399 - 417",
         "division_3": "418 - 436",
@@ -502,7 +502,7 @@
       },
       {
         "rank": "Silver II",
-        "players": "80949",
+        "players": "81054",
         "division_1": "335 - 338",
         "division_2": "339 - 357",
         "division_3": "358 - 376",
@@ -510,7 +510,7 @@
       },
       {
         "rank": "Silver I",
-        "players": "36213",
+        "players": "36261",
         "division_1": "275 - 278",
         "division_2": "279 - 297",
         "division_3": "298 - 316",
@@ -518,7 +518,7 @@
       },
       {
         "rank": "Bronze III",
-        "players": "14831",
+        "players": "14860",
         "division_1": "213 - 218",
         "division_2": "219 - 237",
         "division_3": "238 - 256",
@@ -526,7 +526,7 @@
       },
       {
         "rank": "Bronze II",
-        "players": "5066",
+        "players": "5072",
         "division_1": "143 - 158",
         "division_2": "160 - 175",
         "division_3": "178 - 196",
@@ -534,7 +534,7 @@
       },
       {
         "rank": "Bronze I",
-        "players": "2325",
+        "players": "2330",
         "division_1": "-100 - 113",
         "division_2": "116 - 127",
         "division_3": "120 - 141",
@@ -547,63 +547,63 @@
     "values": [
       {
         "rank": "Supersonic Legend",
-        "players": "2764",
-        "division_1": "1,341 - 1,623",
+        "players": "2767",
+        "division_1": "1341 - 1623",
         "division_2": "-",
         "division_3": "-",
         "division_4": "-"
       },
       {
         "rank": "Grand Champion III",
-        "players": "2248",
-        "division_1": "1,284 - 1,298",
-        "division_2": "1,300 - 1,312",
-        "division_3": "1,318 - 1,335",
-        "division_4": "1,337 - 1,347"
+        "players": "2250",
+        "division_1": "1284 - 1298",
+        "division_2": "1300 - 1312",
+        "division_3": "1318 - 1335",
+        "division_4": "1337 - 1347"
       },
       {
         "rank": "Grand Champion II",
-        "players": "4004",
-        "division_1": "1,228 - 1,238",
-        "division_2": "1,240 - 1,255",
-        "division_3": "1,258 - 1,274",
-        "division_4": "1,277 - 1,283"
+        "players": "4007",
+        "division_1": "1228 - 1238",
+        "division_2": "1240 - 1255",
+        "division_3": "1258 - 1274",
+        "division_4": "1277 - 1283"
       },
       {
         "rank": "Grand Champion I",
-        "players": "8320",
-        "division_1": "1,167 - 1,178",
-        "division_2": "1,180 - 1,194",
-        "division_3": "1,200 - 1,214",
-        "division_4": "1,217 - 1,227"
+        "players": "8333",
+        "division_1": "1167 - 1178",
+        "division_2": "1180 - 1194",
+        "division_3": "1200 - 1214",
+        "division_4": "1217 - 1227"
       },
       {
         "rank": "Champion III",
-        "players": "15084",
-        "division_1": "1,106 - 1,118",
-        "division_2": "1,120 - 1,137",
-        "division_3": "1,138 - 1,155",
-        "division_4": "1,157 - 1,164"
+        "players": "15088",
+        "division_1": "1106 - 1118",
+        "division_2": "1120 - 1137",
+        "division_3": "1138 - 1155",
+        "division_4": "1157 - 1164"
       },
       {
         "rank": "Champion II",
-        "players": "29335",
-        "division_1": "1,054 - 1,058",
-        "division_2": "1,059 - 1,077",
-        "division_3": "1,078 - 1,096",
-        "division_4": "1,097 - 1,105"
+        "players": "29351",
+        "division_1": "1054 - 1058",
+        "division_2": "1059 - 1077",
+        "division_3": "1078 - 1096",
+        "division_4": "1097 - 1105"
       },
       {
         "rank": "Champion I",
-        "players": "59032",
+        "players": "59087",
         "division_1": "995 - 998",
-        "division_2": "999 - 1,017",
-        "division_3": "1,018 - 1,036",
-        "division_4": "1,037 - 1,044"
+        "division_2": "999 - 1017",
+        "division_3": "1018 - 1036",
+        "division_4": "1037 - 1044"
       },
       {
         "rank": "Diamond III",
-        "players": "105831",
+        "players": "105845",
         "division_1": "935 - 938",
         "division_2": "939 - 957",
         "division_3": "958 - 976",
@@ -611,7 +611,7 @@
       },
       {
         "rank": "Diamond II",
-        "players": "198071",
+        "players": "198239",
         "division_1": "875 - 878",
         "division_2": "879 - 897",
         "division_3": "898 - 916",
@@ -619,7 +619,7 @@
       },
       {
         "rank": "Diamond I",
-        "players": "348397",
+        "players": "348599",
         "division_1": "815 - 818",
         "division_2": "819 - 837",
         "division_3": "838 - 856",
@@ -627,7 +627,7 @@
       },
       {
         "rank": "Platinum III",
-        "players": "526765",
+        "players": "527071",
         "division_1": "755 - 758",
         "division_2": "759 - 777",
         "division_3": "778 - 796",
@@ -635,7 +635,7 @@
       },
       {
         "rank": "Platinum II",
-        "players": "723832",
+        "players": "724309",
         "division_1": "695 - 698",
         "division_2": "699 - 717",
         "division_3": "718 - 736",
@@ -643,7 +643,7 @@
       },
       {
         "rank": "Platinum I",
-        "players": "802962",
+        "players": "803554",
         "division_1": "635 - 638",
         "division_2": "639 - 657",
         "division_3": "658 - 676",
@@ -651,7 +651,7 @@
       },
       {
         "rank": "Gold III",
-        "players": "663906",
+        "players": "664444",
         "division_1": "575 - 578",
         "division_2": "579 - 597",
         "division_3": "598 - 616",
@@ -659,7 +659,7 @@
       },
       {
         "rank": "Gold II",
-        "players": "492123",
+        "players": "492601",
         "division_1": "515 - 518",
         "division_2": "519 - 537",
         "division_3": "538 - 556",
@@ -667,7 +667,7 @@
       },
       {
         "rank": "Gold I",
-        "players": "308731",
+        "players": "309078",
         "division_1": "455 - 458",
         "division_2": "459 - 477",
         "division_3": "478 - 496",
@@ -675,7 +675,7 @@
       },
       {
         "rank": "Silver III",
-        "players": "162816",
+        "players": "162989",
         "division_1": "395 - 398",
         "division_2": "399 - 417",
         "division_3": "418 - 436",
@@ -683,7 +683,7 @@
       },
       {
         "rank": "Silver II",
-        "players": "80949",
+        "players": "81054",
         "division_1": "335 - 338",
         "division_2": "339 - 357",
         "division_3": "358 - 376",
@@ -691,7 +691,7 @@
       },
       {
         "rank": "Silver I",
-        "players": "36213",
+        "players": "36261",
         "division_1": "275 - 278",
         "division_2": "279 - 297",
         "division_3": "298 - 316",
@@ -699,7 +699,7 @@
       },
       {
         "rank": "Bronze III",
-        "players": "14831",
+        "players": "14860",
         "division_1": "213 - 218",
         "division_2": "219 - 237",
         "division_3": "238 - 256",
@@ -707,7 +707,7 @@
       },
       {
         "rank": "Bronze II",
-        "players": "5066",
+        "players": "5072",
         "division_1": "143 - 158",
         "division_2": "160 - 175",
         "division_3": "178 - 196",
@@ -715,7 +715,7 @@
       },
       {
         "rank": "Bronze I",
-        "players": "2325",
+        "players": "2330",
         "division_1": "-100 - 113",
         "division_2": "116 - 127",
         "division_3": "120 - 141",
@@ -728,63 +728,63 @@
     "values": [
       {
         "rank": "Supersonic Legend",
-        "players": "2764",
-        "division_1": "1,341 - 1,623",
+        "players": "2767",
+        "division_1": "1341 - 1623",
         "division_2": "-",
         "division_3": "-",
         "division_4": "-"
       },
       {
         "rank": "Grand Champion III",
-        "players": "2248",
-        "division_1": "1,284 - 1,298",
-        "division_2": "1,300 - 1,312",
-        "division_3": "1,318 - 1,335",
-        "division_4": "1,337 - 1,347"
+        "players": "2250",
+        "division_1": "1284 - 1298",
+        "division_2": "1300 - 1312",
+        "division_3": "1318 - 1335",
+        "division_4": "1337 - 1347"
       },
       {
         "rank": "Grand Champion II",
-        "players": "4004",
-        "division_1": "1,228 - 1,238",
-        "division_2": "1,240 - 1,255",
-        "division_3": "1,258 - 1,274",
-        "division_4": "1,277 - 1,283"
+        "players": "4007",
+        "division_1": "1228 - 1238",
+        "division_2": "1240 - 1255",
+        "division_3": "1258 - 1274",
+        "division_4": "1277 - 1283"
       },
       {
         "rank": "Grand Champion I",
-        "players": "8320",
-        "division_1": "1,167 - 1,178",
-        "division_2": "1,180 - 1,194",
-        "division_3": "1,200 - 1,214",
-        "division_4": "1,217 - 1,227"
+        "players": "8333",
+        "division_1": "1167 - 1178",
+        "division_2": "1180 - 1194",
+        "division_3": "1200 - 1214",
+        "division_4": "1217 - 1227"
       },
       {
         "rank": "Champion III",
-        "players": "15084",
-        "division_1": "1,106 - 1,118",
-        "division_2": "1,120 - 1,137",
-        "division_3": "1,138 - 1,155",
-        "division_4": "1,157 - 1,164"
+        "players": "15088",
+        "division_1": "1106 - 1118",
+        "division_2": "1120 - 1137",
+        "division_3": "1138 - 1155",
+        "division_4": "1157 - 1164"
       },
       {
         "rank": "Champion II",
-        "players": "29335",
-        "division_1": "1,054 - 1,058",
-        "division_2": "1,059 - 1,077",
-        "division_3": "1,078 - 1,096",
-        "division_4": "1,097 - 1,105"
+        "players": "29351",
+        "division_1": "1054 - 1058",
+        "division_2": "1059 - 1077",
+        "division_3": "1078 - 1096",
+        "division_4": "1097 - 1105"
       },
       {
         "rank": "Champion I",
-        "players": "59032",
+        "players": "59087",
         "division_1": "995 - 998",
-        "division_2": "999 - 1,017",
-        "division_3": "1,018 - 1,036",
-        "division_4": "1,037 - 1,044"
+        "division_2": "999 - 1017",
+        "division_3": "1018 - 1036",
+        "division_4": "1037 - 1044"
       },
       {
         "rank": "Diamond III",
-        "players": "105831",
+        "players": "105845",
         "division_1": "935 - 938",
         "division_2": "939 - 957",
         "division_3": "958 - 976",
@@ -792,7 +792,7 @@
       },
       {
         "rank": "Diamond II",
-        "players": "198071",
+        "players": "198239",
         "division_1": "875 - 878",
         "division_2": "879 - 897",
         "division_3": "898 - 916",
@@ -800,7 +800,7 @@
       },
       {
         "rank": "Diamond I",
-        "players": "348397",
+        "players": "348599",
         "division_1": "815 - 818",
         "division_2": "819 - 837",
         "division_3": "838 - 856",
@@ -808,7 +808,7 @@
       },
       {
         "rank": "Platinum III",
-        "players": "526765",
+        "players": "527071",
         "division_1": "755 - 758",
         "division_2": "759 - 777",
         "division_3": "778 - 796",
@@ -816,7 +816,7 @@
       },
       {
         "rank": "Platinum II",
-        "players": "723832",
+        "players": "724309",
         "division_1": "695 - 698",
         "division_2": "699 - 717",
         "division_3": "718 - 736",
@@ -824,7 +824,7 @@
       },
       {
         "rank": "Platinum I",
-        "players": "802962",
+        "players": "803554",
         "division_1": "635 - 638",
         "division_2": "639 - 657",
         "division_3": "658 - 676",
@@ -832,7 +832,7 @@
       },
       {
         "rank": "Gold III",
-        "players": "663906",
+        "players": "664444",
         "division_1": "575 - 578",
         "division_2": "579 - 597",
         "division_3": "598 - 616",
@@ -840,7 +840,7 @@
       },
       {
         "rank": "Gold II",
-        "players": "492123",
+        "players": "492601",
         "division_1": "515 - 518",
         "division_2": "519 - 537",
         "division_3": "538 - 556",
@@ -848,7 +848,7 @@
       },
       {
         "rank": "Gold I",
-        "players": "308731",
+        "players": "309078",
         "division_1": "455 - 458",
         "division_2": "459 - 477",
         "division_3": "478 - 496",
@@ -856,7 +856,7 @@
       },
       {
         "rank": "Silver III",
-        "players": "162816",
+        "players": "162989",
         "division_1": "395 - 398",
         "division_2": "399 - 417",
         "division_3": "418 - 436",
@@ -864,7 +864,7 @@
       },
       {
         "rank": "Silver II",
-        "players": "80949",
+        "players": "81054",
         "division_1": "335 - 338",
         "division_2": "339 - 357",
         "division_3": "358 - 376",
@@ -872,7 +872,7 @@
       },
       {
         "rank": "Silver I",
-        "players": "36213",
+        "players": "36261",
         "division_1": "275 - 278",
         "division_2": "279 - 297",
         "division_3": "298 - 316",
@@ -880,7 +880,7 @@
       },
       {
         "rank": "Bronze III",
-        "players": "14831",
+        "players": "14860",
         "division_1": "213 - 218",
         "division_2": "219 - 237",
         "division_3": "238 - 256",
@@ -888,7 +888,7 @@
       },
       {
         "rank": "Bronze II",
-        "players": "5066",
+        "players": "5072",
         "division_1": "143 - 158",
         "division_2": "160 - 175",
         "division_3": "178 - 196",
@@ -896,7 +896,7 @@
       },
       {
         "rank": "Bronze I",
-        "players": "2325",
+        "players": "2330",
         "division_1": "-100 - 113",
         "division_2": "116 - 127",
         "division_3": "120 - 141",
@@ -909,63 +909,63 @@
     "values": [
       {
         "rank": "Supersonic Legend",
-        "players": "2764",
-        "division_1": "1,341 - 1,623",
+        "players": "2767",
+        "division_1": "1341 - 1623",
         "division_2": "-",
         "division_3": "-",
         "division_4": "-"
       },
       {
         "rank": "Grand Champion III",
-        "players": "2248",
-        "division_1": "1,284 - 1,298",
-        "division_2": "1,300 - 1,312",
-        "division_3": "1,318 - 1,335",
-        "division_4": "1,337 - 1,347"
+        "players": "2250",
+        "division_1": "1284 - 1298",
+        "division_2": "1300 - 1312",
+        "division_3": "1318 - 1335",
+        "division_4": "1337 - 1347"
       },
       {
         "rank": "Grand Champion II",
-        "players": "4004",
-        "division_1": "1,228 - 1,238",
-        "division_2": "1,240 - 1,255",
-        "division_3": "1,258 - 1,274",
-        "division_4": "1,277 - 1,283"
+        "players": "4007",
+        "division_1": "1228 - 1238",
+        "division_2": "1240 - 1255",
+        "division_3": "1258 - 1274",
+        "division_4": "1277 - 1283"
       },
       {
         "rank": "Grand Champion I",
-        "players": "8320",
-        "division_1": "1,167 - 1,178",
-        "division_2": "1,180 - 1,194",
-        "division_3": "1,200 - 1,214",
-        "division_4": "1,217 - 1,227"
+        "players": "8333",
+        "division_1": "1167 - 1178",
+        "division_2": "1180 - 1194",
+        "division_3": "1200 - 1214",
+        "division_4": "1217 - 1227"
       },
       {
         "rank": "Champion III",
-        "players": "15084",
-        "division_1": "1,106 - 1,118",
-        "division_2": "1,120 - 1,137",
-        "division_3": "1,138 - 1,155",
-        "division_4": "1,157 - 1,164"
+        "players": "15088",
+        "division_1": "1106 - 1118",
+        "division_2": "1120 - 1137",
+        "division_3": "1138 - 1155",
+        "division_4": "1157 - 1164"
       },
       {
         "rank": "Champion II",
-        "players": "29335",
-        "division_1": "1,054 - 1,058",
-        "division_2": "1,059 - 1,077",
-        "division_3": "1,078 - 1,096",
-        "division_4": "1,097 - 1,105"
+        "players": "29351",
+        "division_1": "1054 - 1058",
+        "division_2": "1059 - 1077",
+        "division_3": "1078 - 1096",
+        "division_4": "1097 - 1105"
       },
       {
         "rank": "Champion I",
-        "players": "59032",
+        "players": "59087",
         "division_1": "995 - 998",
-        "division_2": "999 - 1,017",
-        "division_3": "1,018 - 1,036",
-        "division_4": "1,037 - 1,044"
+        "division_2": "999 - 1017",
+        "division_3": "1018 - 1036",
+        "division_4": "1037 - 1044"
       },
       {
         "rank": "Diamond III",
-        "players": "105831",
+        "players": "105845",
         "division_1": "935 - 938",
         "division_2": "939 - 957",
         "division_3": "958 - 976",
@@ -973,7 +973,7 @@
       },
       {
         "rank": "Diamond II",
-        "players": "198071",
+        "players": "198239",
         "division_1": "875 - 878",
         "division_2": "879 - 897",
         "division_3": "898 - 916",
@@ -981,7 +981,7 @@
       },
       {
         "rank": "Diamond I",
-        "players": "348397",
+        "players": "348599",
         "division_1": "815 - 818",
         "division_2": "819 - 837",
         "division_3": "838 - 856",
@@ -989,7 +989,7 @@
       },
       {
         "rank": "Platinum III",
-        "players": "526765",
+        "players": "527071",
         "division_1": "755 - 758",
         "division_2": "759 - 777",
         "division_3": "778 - 796",
@@ -997,7 +997,7 @@
       },
       {
         "rank": "Platinum II",
-        "players": "723832",
+        "players": "724309",
         "division_1": "695 - 698",
         "division_2": "699 - 717",
         "division_3": "718 - 736",
@@ -1005,7 +1005,7 @@
       },
       {
         "rank": "Platinum I",
-        "players": "802962",
+        "players": "803554",
         "division_1": "635 - 638",
         "division_2": "639 - 657",
         "division_3": "658 - 676",
@@ -1013,7 +1013,7 @@
       },
       {
         "rank": "Gold III",
-        "players": "663906",
+        "players": "664444",
         "division_1": "575 - 578",
         "division_2": "579 - 597",
         "division_3": "598 - 616",
@@ -1021,7 +1021,7 @@
       },
       {
         "rank": "Gold II",
-        "players": "492123",
+        "players": "492601",
         "division_1": "515 - 518",
         "division_2": "519 - 537",
         "division_3": "538 - 556",
@@ -1029,7 +1029,7 @@
       },
       {
         "rank": "Gold I",
-        "players": "308731",
+        "players": "309078",
         "division_1": "455 - 458",
         "division_2": "459 - 477",
         "division_3": "478 - 496",
@@ -1037,7 +1037,7 @@
       },
       {
         "rank": "Silver III",
-        "players": "162816",
+        "players": "162989",
         "division_1": "395 - 398",
         "division_2": "399 - 417",
         "division_3": "418 - 436",
@@ -1045,7 +1045,7 @@
       },
       {
         "rank": "Silver II",
-        "players": "80949",
+        "players": "81054",
         "division_1": "335 - 338",
         "division_2": "339 - 357",
         "division_3": "358 - 376",
@@ -1053,7 +1053,7 @@
       },
       {
         "rank": "Silver I",
-        "players": "36213",
+        "players": "36261",
         "division_1": "275 - 278",
         "division_2": "279 - 297",
         "division_3": "298 - 316",
@@ -1061,7 +1061,7 @@
       },
       {
         "rank": "Bronze III",
-        "players": "14831",
+        "players": "14860",
         "division_1": "213 - 218",
         "division_2": "219 - 237",
         "division_3": "238 - 256",
@@ -1069,7 +1069,7 @@
       },
       {
         "rank": "Bronze II",
-        "players": "5066",
+        "players": "5072",
         "division_1": "143 - 158",
         "division_2": "160 - 175",
         "division_3": "178 - 196",
@@ -1077,7 +1077,7 @@
       },
       {
         "rank": "Bronze I",
-        "players": "2325",
+        "players": "2330",
         "division_1": "-100 - 113",
         "division_2": "116 - 127",
         "division_3": "120 - 141",
@@ -1090,63 +1090,63 @@
     "values": [
       {
         "rank": "Supersonic Legend",
-        "players": "2764",
-        "division_1": "1,341 - 1,623",
+        "players": "2767",
+        "division_1": "1341 - 1623",
         "division_2": "-",
         "division_3": "-",
         "division_4": "-"
       },
       {
         "rank": "Grand Champion III",
-        "players": "2248",
-        "division_1": "1,284 - 1,298",
-        "division_2": "1,300 - 1,312",
-        "division_3": "1,318 - 1,335",
-        "division_4": "1,337 - 1,347"
+        "players": "2250",
+        "division_1": "1284 - 1298",
+        "division_2": "1300 - 1312",
+        "division_3": "1318 - 1335",
+        "division_4": "1337 - 1347"
       },
       {
         "rank": "Grand Champion II",
-        "players": "4004",
-        "division_1": "1,228 - 1,238",
-        "division_2": "1,240 - 1,255",
-        "division_3": "1,258 - 1,274",
-        "division_4": "1,277 - 1,283"
+        "players": "4007",
+        "division_1": "1228 - 1238",
+        "division_2": "1240 - 1255",
+        "division_3": "1258 - 1274",
+        "division_4": "1277 - 1283"
       },
       {
         "rank": "Grand Champion I",
-        "players": "8320",
-        "division_1": "1,167 - 1,178",
-        "division_2": "1,180 - 1,194",
-        "division_3": "1,200 - 1,214",
-        "division_4": "1,217 - 1,227"
+        "players": "8333",
+        "division_1": "1167 - 1178",
+        "division_2": "1180 - 1194",
+        "division_3": "1200 - 1214",
+        "division_4": "1217 - 1227"
       },
       {
         "rank": "Champion III",
-        "players": "15084",
-        "division_1": "1,106 - 1,118",
-        "division_2": "1,120 - 1,137",
-        "division_3": "1,138 - 1,155",
-        "division_4": "1,157 - 1,164"
+        "players": "15088",
+        "division_1": "1106 - 1118",
+        "division_2": "1120 - 1137",
+        "division_3": "1138 - 1155",
+        "division_4": "1157 - 1164"
       },
       {
         "rank": "Champion II",
-        "players": "29335",
-        "division_1": "1,054 - 1,058",
-        "division_2": "1,059 - 1,077",
-        "division_3": "1,078 - 1,096",
-        "division_4": "1,097 - 1,105"
+        "players": "29351",
+        "division_1": "1054 - 1058",
+        "division_2": "1059 - 1077",
+        "division_3": "1078 - 1096",
+        "division_4": "1097 - 1105"
       },
       {
         "rank": "Champion I",
-        "players": "59032",
+        "players": "59087",
         "division_1": "995 - 998",
-        "division_2": "999 - 1,017",
-        "division_3": "1,018 - 1,036",
-        "division_4": "1,037 - 1,044"
+        "division_2": "999 - 1017",
+        "division_3": "1018 - 1036",
+        "division_4": "1037 - 1044"
       },
       {
         "rank": "Diamond III",
-        "players": "105831",
+        "players": "105845",
         "division_1": "935 - 938",
         "division_2": "939 - 957",
         "division_3": "958 - 976",
@@ -1154,7 +1154,7 @@
       },
       {
         "rank": "Diamond II",
-        "players": "198071",
+        "players": "198239",
         "division_1": "875 - 878",
         "division_2": "879 - 897",
         "division_3": "898 - 916",
@@ -1162,7 +1162,7 @@
       },
       {
         "rank": "Diamond I",
-        "players": "348397",
+        "players": "348599",
         "division_1": "815 - 818",
         "division_2": "819 - 837",
         "division_3": "838 - 856",
@@ -1170,7 +1170,7 @@
       },
       {
         "rank": "Platinum III",
-        "players": "526765",
+        "players": "527071",
         "division_1": "755 - 758",
         "division_2": "759 - 777",
         "division_3": "778 - 796",
@@ -1178,7 +1178,7 @@
       },
       {
         "rank": "Platinum II",
-        "players": "723832",
+        "players": "724309",
         "division_1": "695 - 698",
         "division_2": "699 - 717",
         "division_3": "718 - 736",
@@ -1186,7 +1186,7 @@
       },
       {
         "rank": "Platinum I",
-        "players": "802962",
+        "players": "803554",
         "division_1": "635 - 638",
         "division_2": "639 - 657",
         "division_3": "658 - 676",
@@ -1194,7 +1194,7 @@
       },
       {
         "rank": "Gold III",
-        "players": "663906",
+        "players": "664444",
         "division_1": "575 - 578",
         "division_2": "579 - 597",
         "division_3": "598 - 616",
@@ -1202,7 +1202,7 @@
       },
       {
         "rank": "Gold II",
-        "players": "492123",
+        "players": "492601",
         "division_1": "515 - 518",
         "division_2": "519 - 537",
         "division_3": "538 - 556",
@@ -1210,7 +1210,7 @@
       },
       {
         "rank": "Gold I",
-        "players": "308731",
+        "players": "309078",
         "division_1": "455 - 458",
         "division_2": "459 - 477",
         "division_3": "478 - 496",
@@ -1218,7 +1218,7 @@
       },
       {
         "rank": "Silver III",
-        "players": "162816",
+        "players": "162989",
         "division_1": "395 - 398",
         "division_2": "399 - 417",
         "division_3": "418 - 436",
@@ -1226,7 +1226,7 @@
       },
       {
         "rank": "Silver II",
-        "players": "80949",
+        "players": "81054",
         "division_1": "335 - 338",
         "division_2": "339 - 357",
         "division_3": "358 - 376",
@@ -1234,7 +1234,7 @@
       },
       {
         "rank": "Silver I",
-        "players": "36213",
+        "players": "36261",
         "division_1": "275 - 278",
         "division_2": "279 - 297",
         "division_3": "298 - 316",
@@ -1242,7 +1242,7 @@
       },
       {
         "rank": "Bronze III",
-        "players": "14831",
+        "players": "14860",
         "division_1": "213 - 218",
         "division_2": "219 - 237",
         "division_3": "238 - 256",
@@ -1250,7 +1250,7 @@
       },
       {
         "rank": "Bronze II",
-        "players": "5066",
+        "players": "5072",
         "division_1": "143 - 158",
         "division_2": "160 - 175",
         "division_3": "178 - 196",
@@ -1258,7 +1258,7 @@
       },
       {
         "rank": "Bronze I",
-        "players": "2325",
+        "players": "2330",
         "division_1": "-100 - 113",
         "division_2": "116 - 127",
         "division_3": "120 - 141",
@@ -1271,63 +1271,63 @@
     "values": [
       {
         "rank": "Supersonic Legend",
-        "players": "2764",
-        "division_1": "1,341 - 1,623",
+        "players": "2767",
+        "division_1": "1341 - 1623",
         "division_2": "-",
         "division_3": "-",
         "division_4": "-"
       },
       {
         "rank": "Grand Champion III",
-        "players": "2248",
-        "division_1": "1,284 - 1,298",
-        "division_2": "1,300 - 1,312",
-        "division_3": "1,318 - 1,335",
-        "division_4": "1,337 - 1,347"
+        "players": "2250",
+        "division_1": "1284 - 1298",
+        "division_2": "1300 - 1312",
+        "division_3": "1318 - 1335",
+        "division_4": "1337 - 1347"
       },
       {
         "rank": "Grand Champion II",
-        "players": "4004",
-        "division_1": "1,228 - 1,238",
-        "division_2": "1,240 - 1,255",
-        "division_3": "1,258 - 1,274",
-        "division_4": "1,277 - 1,283"
+        "players": "4007",
+        "division_1": "1228 - 1238",
+        "division_2": "1240 - 1255",
+        "division_3": "1258 - 1274",
+        "division_4": "1277 - 1283"
       },
       {
         "rank": "Grand Champion I",
-        "players": "8320",
-        "division_1": "1,167 - 1,178",
-        "division_2": "1,180 - 1,194",
-        "division_3": "1,200 - 1,214",
-        "division_4": "1,217 - 1,227"
+        "players": "8333",
+        "division_1": "1167 - 1178",
+        "division_2": "1180 - 1194",
+        "division_3": "1200 - 1214",
+        "division_4": "1217 - 1227"
       },
       {
         "rank": "Champion III",
-        "players": "15084",
-        "division_1": "1,106 - 1,118",
-        "division_2": "1,120 - 1,137",
-        "division_3": "1,138 - 1,155",
-        "division_4": "1,157 - 1,164"
+        "players": "15088",
+        "division_1": "1106 - 1118",
+        "division_2": "1120 - 1137",
+        "division_3": "1138 - 1155",
+        "division_4": "1157 - 1164"
       },
       {
         "rank": "Champion II",
-        "players": "29335",
-        "division_1": "1,054 - 1,058",
-        "division_2": "1,059 - 1,077",
-        "division_3": "1,078 - 1,096",
-        "division_4": "1,097 - 1,105"
+        "players": "29351",
+        "division_1": "1054 - 1058",
+        "division_2": "1059 - 1077",
+        "division_3": "1078 - 1096",
+        "division_4": "1097 - 1105"
       },
       {
         "rank": "Champion I",
-        "players": "59032",
+        "players": "59087",
         "division_1": "995 - 998",
-        "division_2": "999 - 1,017",
-        "division_3": "1,018 - 1,036",
-        "division_4": "1,037 - 1,044"
+        "division_2": "999 - 1017",
+        "division_3": "1018 - 1036",
+        "division_4": "1037 - 1044"
       },
       {
         "rank": "Diamond III",
-        "players": "105831",
+        "players": "105845",
         "division_1": "935 - 938",
         "division_2": "939 - 957",
         "division_3": "958 - 976",
@@ -1335,7 +1335,7 @@
       },
       {
         "rank": "Diamond II",
-        "players": "198071",
+        "players": "198239",
         "division_1": "875 - 878",
         "division_2": "879 - 897",
         "division_3": "898 - 916",
@@ -1343,7 +1343,7 @@
       },
       {
         "rank": "Diamond I",
-        "players": "348397",
+        "players": "348599",
         "division_1": "815 - 818",
         "division_2": "819 - 837",
         "division_3": "838 - 856",
@@ -1351,7 +1351,7 @@
       },
       {
         "rank": "Platinum III",
-        "players": "526765",
+        "players": "527071",
         "division_1": "755 - 758",
         "division_2": "759 - 777",
         "division_3": "778 - 796",
@@ -1359,7 +1359,7 @@
       },
       {
         "rank": "Platinum II",
-        "players": "723832",
+        "players": "724309",
         "division_1": "695 - 698",
         "division_2": "699 - 717",
         "division_3": "718 - 736",
@@ -1367,7 +1367,7 @@
       },
       {
         "rank": "Platinum I",
-        "players": "802962",
+        "players": "803554",
         "division_1": "635 - 638",
         "division_2": "639 - 657",
         "division_3": "658 - 676",
@@ -1375,7 +1375,7 @@
       },
       {
         "rank": "Gold III",
-        "players": "663906",
+        "players": "664444",
         "division_1": "575 - 578",
         "division_2": "579 - 597",
         "division_3": "598 - 616",
@@ -1383,7 +1383,7 @@
       },
       {
         "rank": "Gold II",
-        "players": "492123",
+        "players": "492601",
         "division_1": "515 - 518",
         "division_2": "519 - 537",
         "division_3": "538 - 556",
@@ -1391,7 +1391,7 @@
       },
       {
         "rank": "Gold I",
-        "players": "308731",
+        "players": "309078",
         "division_1": "455 - 458",
         "division_2": "459 - 477",
         "division_3": "478 - 496",
@@ -1399,7 +1399,7 @@
       },
       {
         "rank": "Silver III",
-        "players": "162816",
+        "players": "162989",
         "division_1": "395 - 398",
         "division_2": "399 - 417",
         "division_3": "418 - 436",
@@ -1407,7 +1407,7 @@
       },
       {
         "rank": "Silver II",
-        "players": "80949",
+        "players": "81054",
         "division_1": "335 - 338",
         "division_2": "339 - 357",
         "division_3": "358 - 376",
@@ -1415,7 +1415,7 @@
       },
       {
         "rank": "Silver I",
-        "players": "36213",
+        "players": "36261",
         "division_1": "275 - 278",
         "division_2": "279 - 297",
         "division_3": "298 - 316",
@@ -1423,7 +1423,7 @@
       },
       {
         "rank": "Bronze III",
-        "players": "14831",
+        "players": "14860",
         "division_1": "213 - 218",
         "division_2": "219 - 237",
         "division_3": "238 - 256",
@@ -1431,7 +1431,7 @@
       },
       {
         "rank": "Bronze II",
-        "players": "5066",
+        "players": "5072",
         "division_1": "143 - 158",
         "division_2": "160 - 175",
         "division_3": "178 - 196",
@@ -1439,7 +1439,7 @@
       },
       {
         "rank": "Bronze I",
-        "players": "2325",
+        "players": "2330",
         "division_1": "-100 - 113",
         "division_2": "116 - 127",
         "division_3": "120 - 141",
