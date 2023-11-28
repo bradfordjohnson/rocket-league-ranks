@@ -19,9 +19,6 @@ rank_distributions["max"] = pd.to_numeric(rank_distributions["max"], errors="coe
 
 rank_distributions["max"] = rank_distributions["max"].fillna(1800)
 
-rank_distributions.to_csv("audit.csv", index=False)
-
-
 def generate_random_mmr(min_mmr, max_mmr):
     return random.randint(int(min_mmr), int(max_mmr))
 
@@ -70,5 +67,4 @@ rank_order = {
 
 result_df["rank_order"] = result_df["rank"].map(rank_order)
 
-# write to json
 result_df.to_json("sample_population.json", orient="records")
